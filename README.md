@@ -66,4 +66,3 @@
     + :warning: not recommended to use tomcat 10 version , because you can need extra settings
 + [ ] Download [Postman](https://www.postman.com) desktop version and write your data in query :octocat:
 + [X] Admin username: admin@i.ua, password: admin123
-+ 
