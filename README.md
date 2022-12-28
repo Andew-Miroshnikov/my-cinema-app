@@ -1,5 +1,5 @@
-﻿# <h1><img src="https://cdn-icons-png.flaticon.com/512/1067/1067089.png" width="100"/>Cinema app</h1>
-:clapper: **Cinema-app** is a simple web-application that supports <em>registration</em>, <em>authentication</em> and other <em>CRUD</em> operations. Application compile with <i>REST</i> architecture style, <i>SOLID</i> and other ***OOP*** principles. Application supports Role acsecc for endpoints, <i>JSON</i> content-type.
+# <h1><img src="https://cdn-icons-png.flaticon.com/512/1067/1067089.png" width="100"/>Cinema app</h1>
+:clapper: **Cinema-app** is a simple web-application that supports <em>registration</em>, <em>authentication</em> and other <em>CRUD</em> operations. Application compile with <i>REST</i> architecture style, <i>SOLID</i> and other ***OOP*** principles. Application supports Role access for endpoints, <i>JSON</i> content-type.
 
 :dart: Features
 ---
@@ -61,9 +61,8 @@
     + [ ] write your **db.url**
         + :eyes: pay attention for this part `?serverTimezone=UTC`
     + [ ] write your **db.driver**
-        + :warning: if you have problems with this punkt you can easely find it in internet, just write "***YOUR DATABASE NAME*** *driver class name*"
+        + :warning: if you have problems with this part, you can easily find it in internet, just write "***YOUR DATABASE NAME*** *driver class name*"
 + [ ] Configure [Tomcat](https://tomcat.apache.org/download-90.cgi) local server
-    + :warning: not recommended to use tomcat 10 version , cause you can need extra settings
-+ [ ] Download [Postman](https://www.postman.com) desctop version and write your data in query :octocat: 
+    + :warning: not recommended to use tomcat 10 version , because you can need extra settings
++ [ ] Download [Postman](https://www.postman.com) desktop version and write your data in query :octocat:
 + [X] Admin username: admin@i.ua, password: admin123
-
